@@ -1,5 +1,7 @@
 # latex-to-docx
 
+[![npm](https://img.shields.io/npm/v/latex-to-docx)](https://www.npmjs.com/package/latex-to-docx) [![license](https://img.shields.io/npm/l/latex-to-docx)](LICENSE)
+
 Convert LaTeX math into **native, editable Word equations** (OMML) for the [`docx`](https://www.npmjs.com/package/docx) library.
 
 Built for the formulas that ChatGPT, Claude and Gemini write — fractions, roots, sums, integrals, limits,

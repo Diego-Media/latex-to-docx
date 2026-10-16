@@ -1,6 +1,6 @@
 {
   "name": "latex-to-docx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert LaTeX math (as written by ChatGPT, Claude and Gemini) into native, editable Word equations for the docx library.",
   "type": "module",
   "main": "./index.js",
@@ -42,6 +42,11 @@
   ],
   "author": "Diego Callegari (https://freeforeverconverter.com)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diego-Media/latex-to-docx.git"
+  },
+  "bugs": "https://github.com/Diego-Media/latex-to-docx/issues",
   "homepage": "https://freeforeverconverter.com/chatgpt-math-to-word/",
   "sideEffects": false
 }
