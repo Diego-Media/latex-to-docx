@@ -11,6 +11,9 @@ anything it doesn't know is kept as plain text inside the equation.
 It powers the [ChatGPT to Word converter](https://freeforeverconverter.com/chatgpt-to-word/) on Free Forever Converter,
 and is explained in [How to copy ChatGPT math to Word](https://freeforeverconverter.com/chatgpt-math-to-word/).
 
+**Tutorial with more examples** (inline math, `$…$` in text, browser download, aligned blocks):
+[Convert LaTeX to editable Word equations in JavaScript](https://freeforeverconverter.com/guides/latex-to-word-equations-javascript/).
+
 ```bash
 npm install latex-to-docx docx
 ```
